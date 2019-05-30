@@ -1,0 +1,8 @@
+mkbundleExample/bin
+mkbundleExample/obj
+ClassLibrary2/bin
+ClassLibrary2/obj
+ClassLibrary1/bin
+ClassLibrary1/obj
+.vscode
+.idea

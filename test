@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+msbuild
+cd mkbundleExample/bin/Debug/
+ls *.dll |xargs mkbundle --deps -z mkbundleExample.exe --sdk /Library/Frameworks/Mono.framework/Versions/Current
